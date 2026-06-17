@@ -1,1 +1,1 @@
-# ai-ledger-ecology
+# RegimeNet
