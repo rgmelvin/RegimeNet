@@ -1,21 +1,27 @@
 # RegimeNet Software Vision
 
-RegimeNet software is a computational laboratory for investigating how living systems arise, persist, reorganize, and fade.
+RegimeNet is a computational laboratory for investigating how living systems arise, persist, reorganize, and fade.
 
-It is not only a Python package.
+The software is organized around the movement of research through a working laboratory:
 
-It is not only a simulation.
+- Kitchen
+- Dry Lab
+- Wet Lab
+- Fly Room
+- Incubator Room
 
-It is a working environment for defining experimental systems, running models, analyzing regime structure, and making those results inspectable.
+The Kitchen is the entry point. It is where conversation, questions, and planning begin.
 
-The first task of the software is to identify and represent the central research object of RegimeNet.
+The Dry Lab is for thinking, writing, modeling, data analysis, visualization, and computational work.
 
-Candidate central objects include:
+The Wet Lab is for experimental design, protocols, empirical observations, and tests.
 
-- regime
-- transition
-- diagnostic
-- experimental system
-- regime history
+The Fly Room is for model systems, benchmark organisms, and manipulable experimental populations.
 
-This document records the working vision. It should change only when the software vision itself changes.
+The Incubator Room is for long-running simulations, evolving systems, and population-scale experiments.
+
+The Dry Lab can be reached through the Kitchen or the Wet Lab. It is not directly connected to the hallway.
+
+The hallway connects the Kitchen, Wet Lab, Fly Room, and Incubator Room.
+
+This document records the working vision for RegimeNet software.
